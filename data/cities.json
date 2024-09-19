@@ -47,6 +47,30 @@
         "lat": "24.477150011148677",
         "lng": "39.63867187500001"
       }
+    },
+    {
+      "id": "80a7",
+      "cityName": "Islamabad",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-09-19T10:09:28.542Z",
+      "notes": "Awesome",
+      "position": {
+        "lat": "33.72377766522282",
+        "lng": "72.95184773437501"
+      }
+    },
+    {
+      "id": "9d7f",
+      "cityName": "Edmonton",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-09-19T10:09:54.022Z",
+      "notes": "Fabalous",
+      "position": {
+        "lat": "53.54357161755108",
+        "lng": "-113.49426269531251"
+      }
     }
   ]
 }
