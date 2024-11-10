@@ -1,6 +1,6 @@
 # WorldWise
 
-WorldWise app, developed with guidance from Jonas Schmedtmann's ReactJS + NextJS course.
+WorldWise, a travel tracking app where users can mark visited locations on an interactive global map. Built with React and React-Leaflet. 
 
 ## Screenshots
 
